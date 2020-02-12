@@ -1,10 +1,22 @@
   /*载入字体*/
   @font-face {
-      font-family: 'JournalRegular';
-      src: url('../fonts/journal-webfont.eot');
-      src: url('../fonts/journal-webfont_162a16fe.eot') format('embedded-opentype'), url('../fonts/journal-webfont.woff') format('woff'), url('../fonts/journal-webfont.ttf') format('truetype'), url('./fonts/journal-webfont.svg') format('svg');
+      font-family: 'AboutLoveRegular';
+      src: url('../fonts/AboutLove.eot') format('embedded-opentype'), 
+           url('../fonts/AboutLove.woff') format('woff'), 
+           url('../fonts/AboutLove.ttf') format('truetype'), 
+           url('./fonts/AboutLove.svg') format('svg');
       font-weight: normal;
       font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'RushHourRegular';
+    src: url('../fonts/RushHour.eot') format('embedded-opentype'), 
+         url('../fonts/RushHour.woff') format('woff'), 
+         url('../fonts/RushHour.ttf') format('truetype'), 
+         url('./fonts/RushHour.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
   }
   
   .carousel-fade .carousel-inner .item {
