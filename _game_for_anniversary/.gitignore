@@ -1,0 +1,7 @@
+record.txt
+main.spec
+__pycache__
+.vscode
+*.zip
+build
+dist
